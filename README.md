@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 Currently working on PPML & secure AI
+- 🌱 Currently work in SDU
+- 💬 Cooperation welcomed
+  
+- // 👯 In fact want to make games
+
 <!--
 **Carudy/Carudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
